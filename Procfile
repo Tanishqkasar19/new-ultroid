@@ -1,1 +1,1 @@
-Tanishq_Kasar: bash Tanishq.sh
+tanishq_Kasar: bash tanishq.sh
