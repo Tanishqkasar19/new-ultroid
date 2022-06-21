@@ -1,1 +1,1 @@
-tanishq_Kasar: bash creature.sh
+creature: bash creature.sh
